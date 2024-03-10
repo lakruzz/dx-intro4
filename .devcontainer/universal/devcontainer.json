@@ -1,0 +1,14 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"eamodio.gitlens",
+				"github.vscode-github-actions",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"ms-vscode.vscode-github-issue-notebooks"
+			]
+		}
+	}
+}
